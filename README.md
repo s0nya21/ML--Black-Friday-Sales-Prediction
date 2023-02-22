@@ -1,2 +1,2 @@
-# machine-learning
-Application of Python programming codes
+#ML-> Black-Friday-Sales-Prediction
+Analysis and prediction of the sales data during Black Friday sale   using various Regression ML algorithms
